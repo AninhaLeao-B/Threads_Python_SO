@@ -1,4 +1,4 @@
-# 🧵 Projetos de Concorrência em Python (Threads)
+# 🧵 Projetos de Threads em Python
 Este repositório reúne diversos exemplos práticos, didáticos e divertidos de programação concorrente usando **threads em Python**.  
 Cada arquivo demonstra um conceito específico, desde o básico até simulações complexas, com uso real de `threading.Event`, `Lock`, atualização em tempo real, shutdown controlado e interação com o usuário.
 

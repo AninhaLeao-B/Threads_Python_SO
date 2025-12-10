@@ -67,13 +67,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-"""Criação de múltiplas threads
-Execução concorrente (as mensagens saem embaralhadas)
-Uso de threading.Thread
-Uso de join() pra esperar todas finalizarem
-Não depende de CPU — é 100% I/O bound (impressões + sleeps)
-Comportamento não determinístico (cada corrida é diferente)
-Esse tipo de exemplo deixa SUPER claro como threads funcionam."""
